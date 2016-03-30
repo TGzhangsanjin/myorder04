@@ -1,0 +1,4 @@
+rootProject.name = 'myorder04'
+include 'AuthSql'
+include 'admin-war'
+
